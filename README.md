@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning something about infra, distributed architecture... 
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 l1ng14@foxmail.com
-- ⚡ Fun fact: 
-  - I read books that most people can no longer find.
-  - What can I get more excited about than submitting a PR to closeing a issue? That PR had been merged.
+- ⚡ Fun fact: What can I get more excited about than submitting a PR to closeing a issue? That PR had been merged.
 - 📘 Blog: [spike014.github.io](https://spike014.github.io)
 
 **Reading and thinking will... ... give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
