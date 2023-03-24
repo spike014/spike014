@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
+- Not a adolescent anymore. 🤔
 - 🔭 I’m currently working on distributed game server end develop.
 - ✍️ I perfer to use Go and Python, am learning Rust.
 - 🌱 I’m currently learning something about infra, distributed architecture... 
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 l1ng14@foxmail.com
-- ⚡ Fun fact: read books that people can no longer find.
+- ⚡ Fun fact: 
+  - I read books that most people can no longer find.
+  - What can I get more excited about than submitting a PR to closeing a issue? That PR merged.
 - 📘 Blog: [spike014.github.io](https://spike014.github.io)
 
-
+**Reading and thinking will... ... give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike014&show_icons=true&theme=radical)
 
