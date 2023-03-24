@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 l1ng14@foxmail.com
 - ⚡ Fun fact: read books that people can no longer find.
+- 📘 Blog: [spike014.github.io](https://spike014.github.io)
 
 
 
