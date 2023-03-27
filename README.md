@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 **Reading and thinking will... ... give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike014&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike014&show_icons=true&theme=radical&cache_seconds=180)
 
 
