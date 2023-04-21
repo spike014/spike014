@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 At last,
 
-**Reading and thinking will give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
+**Reading and thinking will give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to discern between the two.**
