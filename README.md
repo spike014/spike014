@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 📧 l1ng14@foxmail.com
 - ⚡ Fun fact: What can I get more excited about than submitting a PR to closeing a issue? That PR had been merged. I love open source.
 - 📘 Blog: [spike014.github.io](https://spike014.github.io)
-- :eyes: Looking forward good job opportunity(I accept any base.), so reach me anytime.
-
-**Reading and thinking will... ... give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
+- :eyes: **Looking forward good job opportunity (I accept any base.), so reach me anytime.**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike014&show_icons=true&theme=radical&cache_seconds=180)
 
+At last,
 
+**Reading and thinking will give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to know the difference.**
