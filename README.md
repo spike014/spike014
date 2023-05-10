@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 
 -->
 - Not a adolescent anymore. 🤔
-- 🔭 I’m currently working on distributed game server end develop.
+- 🔭 I’m currently working on game server end develop.
 - ✍️ I perfer to use Go and Python.
 - 🌱 I’m currently learning something about infra, database system, distributed architecture... 
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 `l1ng14<at>foxmail.com`
-- ⚡ Fun fact: What can I get more excited about than submitting a PR to closeing a issue? That PR had been merged. I love open source.
+- ⚡ Fun fact: I always wonder if this can be automated.
 - 📘 Blog: [spike014.github.io](https://spike014.github.io)
 - :eyes: **Looking forward good job opportunity (I accept any base.), so reach me anytime.**
 
