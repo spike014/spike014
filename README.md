@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I always wonder if this can be automated.
 - 📘 Blog: [spike014.github.io](https://spike014.github.io)
 <!--
-- :eyes: **Looking forward good job opportunity (I accept any base.), so reach me anytime.**
+- :eyes: **Looking forward good job opportunity (I accept any base.), so reach me anytime.** I am working for @zolplay-cn now. And I enjoy collaborating with my co-workers. They are soooooo fxxking fun.
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike014&show_icons=true&theme=radical&cache_seconds=180)
