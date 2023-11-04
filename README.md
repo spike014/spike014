@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - Not a adolescent anymore. 🤔
 - 🔭 I’m currently working on game server end develop.
-- ✍️ I perfer to use Go and Python.
+- ✍️ I perfer to use Go, PHP, JS and Python.
 - 🌱 I’m currently learning something about infra, database system, distributed architecture... 
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 `l1ng14<at>foxmail.com`
