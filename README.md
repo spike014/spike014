@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ✍️ I perfer to use Go, PHP, JS and Python.
 - 🌱 I’m currently learning something about life... ~~infra, database system, distributed architecture...~~
 - 👯 I’m looking to collaborate on changing the world.
-- 📫 How to reach me: 📧 `l1ng14<at>foxmail.com`
+- 📫 How to reach me: 📧 `me<at>spike014.cc`
 - ⚡ Fun fact: ...
 - 📘 Blog: [spike014.pages.dev](https://spike014.pages.dev)
 <!--
