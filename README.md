@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 `me<at>spike014.cc`
 - ⚡ Fun fact: ...
-- 📘 Blog: [blog.spike014.cc](https://blog.spike014.cc)
+- 📘 Blog: [spike014.cc](https://spike014.cc)
 <!--
 - :eyes: **Looking forward good job opportunity (I accept any base.), so reach me anytime.** I am working for @zolplay-cn now. And I enjoy collaborating with my co-workers. They are soooooo fxxking fun.
 -->
