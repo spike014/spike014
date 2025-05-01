@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- Not a adolescent anymore. 🤔
-- 🔭 I’m currently working on game server end develop.
-- ✍️ I perfer to use Go, PHP, JS and Python.
+- Not an adolescent anymore. 🤔
+- 🔭 I’m currently working on game server end development.
+- ✍️ I prefer Go, PHP, JS, and Python.
 - 🌱 I’m currently learning something about life... ~~infra, database system, distributed architecture...~~
 - 👯 I’m looking to collaborate on changing the world.
 - 📫 How to reach me: 📧 `me<at>spike014.cc`
