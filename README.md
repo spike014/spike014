@@ -16,4 +16,4 @@ Not an adolescent anymore. 🤔
 
 At last,
 
-Reading and thinking will give me the serenity to accept what I can not change, the courage to change what I can, and the wisdom to discern between the two.
+阅读和思考会给我宁静，让我接受我无法改变的事情；给我勇气，让我改变我可以改变的事情；给我智慧，让我分辨两者之间的区别。
