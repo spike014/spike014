@@ -6,7 +6,7 @@ Not an adolescent anymore. 🤔
 
 ✍️ I prefer Go, PHP, JS, and Python.
 
-🌱 I’m currently learning something about life... infra, database system, distributed architecture...
+🌱 I’m currently learning something about RN, Expo, and life... ~~infra, database system, distributed architecture...~~
 
 👯 I’m looking to collaborate on changing the world.
 
