@@ -2,7 +2,7 @@ Hi there 👋
 
 Not an adolescent anymore. 🤔
 
-🔭 I’m currently working on game server end development.
+🔭 I’m currently working on full-stack dev.
 
 ✍️ I prefer Go, PHP, JS, and Python.
 
