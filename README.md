@@ -10,8 +10,6 @@ Not an adolescent anymore. 🤔
 
 👯 I’m looking to collaborate on changing the world.
 
-📫 How to reach me: 📧 me&lt;at&gt;spike014.cc
-
 ⚡ Fun fact: ...
 
 At last,
