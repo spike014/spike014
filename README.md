@@ -4,7 +4,7 @@ Not an adolescent anymore. 🤔
 
 🔭 I’m currently working on full-stack dev.
 
-✍️ I prefer Go, PHP, JS, and Python.
+✍️ I prefer Go, TS (React), and Dart (Flutter).
 
 🌱 I’m currently learning something about RN, Expo, and life... ~~infra, database system, distributed architecture...~~
 
