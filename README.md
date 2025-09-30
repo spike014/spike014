@@ -6,7 +6,7 @@ Not an adolescent anymore. 🤔
 
 ✍️ I prefer Go, TS (React), and Dart (Flutter).
 
-🌱 I’m currently learning something about RN, Expo, and life... ~~infra, database system, distributed architecture...~~
+🌱 I’m currently learning something about Dart (Flutter), and life... ~~infra, database system, distributed architecture...~~
 
 👯 I’m looking to collaborate on changing the world.
 
