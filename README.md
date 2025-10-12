@@ -4,9 +4,9 @@ Not an adolescent anymore. 🤔
 
 🔭 I’m currently working on full-stack dev.
 
-✍️ I prefer Go, TS (React), and Dart (Flutter).
+✍️ I prefer Go and TS (React).
 
-🌱 I’m currently learning something about Dart (Flutter) and life... ~~infra, database system, distributed architecture...~~
+🌱 I’m currently learning something about App building and life... ~~infra, database system, distributed architecture...~~
 
 👯 I’m looking to collaborate on changing the world.
 
